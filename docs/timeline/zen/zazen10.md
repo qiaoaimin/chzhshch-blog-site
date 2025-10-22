@@ -6,6 +6,8 @@ hide_table_of_contents: true
 
 # 教你打坐10：不要相信任何你能看到想到感觉到的
 
+> 2007-09-28 20:06:56
+
 <div style={{color: '#FF0000', fontSize: '56px', fontWeight: '500', textAlign: 'center', lineHeight: '150%'}}>
 
 内部装修
